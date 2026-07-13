@@ -68,41 +68,6 @@ Computer Science student at **PP Savani University** with hands-on experience in
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔗 [Product Chain Supply Management](https://github.com/DHRUPATEL18/Product-chain-supply-management)
-> **PHP · MySQL · HTML · CSS · JavaScript · PHPMailer · TCPDF · AI Analyst Module**
-
-Web-based supply chain system managing distributors, products, and sales data for OneLife. Features secure database connectivity, structured data management, and form handling using PHP and MySQL.
-
----
-
-### 🤖 [ASSIP – AI Desktop Assistant](https://github.com/DHRUPATEL18/AI-DESKTOP-ASSISTANT--ASSIP)
-> **Python · SpeechRecognition · pyttsx3 · smtplib · REST APIs**
-
-Smart voice assistant built with Python that understands natural language commands and performs real-world tasks — system control, web browsing, weather, news, messaging, and AI-powered chat. Features a GUI, speech recognition, text-to-speech, and NLP-based intent detection.
-
----
-
-### 🌐 [Personal Portfolio Website](https://dhrupateldev.kesug.com)
-> **HTML · CSS · JavaScript · Server-side Scripting · Database Integration · Live Hosting**
-
-Fully designed and deployed personal portfolio with database integration, server-side scripting, and live hosting — showcasing skills, projects, and certifications with a responsive UI.
-
----
-
-## 💼 Work Experience
-
-### 🏢 Web Developer Intern — [Pragma Infotech](https://pragmainfotech.com), Surat, Gujarat
-**Jun 2025 – Nov 2025 · 6 months · On-site**
-
-- Developed and maintained web applications as part of assigned projects
-- Collaborated with the development team on real-world client deliverables
-- Gained practical experience in full-stack web development workflows
-
-
----
-
 ## 🎯 Interests
 
 `🔐 Cybersecurity` &nbsp; `🕵️ Penetration Testing` &nbsp; `🛡️ SOC Analysis` &nbsp; `🌐 Full-Stack Dev` &nbsp; `🤖 AI / ML`
