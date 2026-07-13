@@ -46,7 +46,6 @@ Computer Science student at **PP Savani University** with hands-on experience in
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ### 🗄️ Databases & APIs
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
@@ -55,9 +54,13 @@ Computer Science student at **PP Savani University** with hands-on experience in
 ![REST API](https://img.shields.io/badge/REST%20APIs-003399?style=for-the-badge&logo=fastapi&logoColor=white)
 
 ### 🔐 Cybersecurity
-![Kali Linux](https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logo=nmap&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Metasploit](https://img.shields.io/badge/Metasploit-0078D7?style=for-the-badge&logo=metasploit&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-%23212C42.svg?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![Hack%20The%20Box](https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 
 ### 🧰 Tools
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
@@ -88,28 +91,6 @@ Fully designed and deployed personal portfolio with database integration, server
 
 ---
 
-## 🏆 Certifications
-
-| Category | Certification | Issuer |
-|---|---|---|
-| 💻 Programming | Python Programming *(4 courses)* | University of Michigan |
-| 💻 Programming | Introduction to C++ Programming *(4 courses)* | Microsoft |
-| 🔐 Cybersecurity | Google Cybersecurity Specialization *(9 courses)* | Google |
-| 🌐 Networking | Bits & Bytes of Computer Networking | Google |
-| ⛓️ Blockchain | Blockchain & its Applications – Elite Level | NPTEL · IIT Kharagpur |
-| 📊 Business | Cost Accounting: Decision Making | Technical University of Munich |
-| 🤖 AI | AI, Business & the Future of Work | Lund University |
-
----
-
-## 🎓 Education
-
-| Degree | Institution | Duration | CGPA |
-|---|---|---|---|
-| B.Tech – Computer Science & Engineering | PP Savani University, Kosamba, Gujarat | 2022 – Apr 2026 | ~7.8 / 10.0 |
-
----
-
 ## 💼 Work Experience
 
 ### 🏢 Web Developer Intern — [Pragma Infotech](https://pragmainfotech.com), Surat, Gujarat
@@ -119,15 +100,6 @@ Fully designed and deployed personal portfolio with database integration, server
 - Collaborated with the development team on real-world client deliverables
 - Gained practical experience in full-stack web development workflows
 
----
-
-## 🌍 Languages
-
-| Language | Proficiency |
-|---|---|
-| Gujarati | ██████████ Native |
-| English  | ████████░░ Proficient |
-| Hindi    | ████████░░ Proficient |
 
 ---
 
