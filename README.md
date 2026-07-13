@@ -109,10 +109,6 @@ Fully designed and deployed personal portfolio with database integration, server
 
 ---
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=DHRUPATEL18&icon=0&color=6" />
-</p>
-
 <p align="center"><i>Open to internships, collaborations, and full-time opportunities in Web Development & Cybersecurity.</i></p>
 
 ## 📊 GitHub Stats
