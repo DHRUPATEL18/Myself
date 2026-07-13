@@ -142,3 +142,11 @@ Fully designed and deployed personal portfolio with database integration, server
 </p>
 
 <p align="center"><i>Open to internships, collaborations, and full-time opportunities in Web Development & Cybersecurity.</i></p>
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=DHRUPATEL18&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DHRUPATEL18&layout=compact&theme=tokyonight)
+
+![](https://streak-stats.demolab.com?user=DHRUPATEL18&theme=tokyonight)
